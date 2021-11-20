@@ -1,2 +1,2 @@
 # simujs
-A Control System Simulator
+A Web Based State Space Simulator
