@@ -4,7 +4,7 @@ let chart=new Chart("plotter", {
   data: {
     datasets: [
       {
-        label:["Unfiro"],
+        label:["EquationGraph"],
         pointRadius: 1,
         pointBackgroundColor: "rgba(214, 32, 190,1)",
         data: [],
